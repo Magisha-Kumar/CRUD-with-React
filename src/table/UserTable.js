@@ -27,7 +27,7 @@ const UserTable = (props) => {
                         </tr>
                     ))
                 ): (
-                    <h1>No Users</h1>
+                    <h3>No Users</h3>
                 )
             }
                 
